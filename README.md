@@ -18,7 +18,7 @@ Simple algorithm question, I totally provided 3 different solutions with unequal
 For more details: [python part](https://github.com/linzhou-zhong/servier_test/tree/master/python)
 ## SQL part
 
-This project is aimed to create two tables `transactions` and `product_nomEnclature`, and write some SQL statements to get observed results. 
+This project is aimed to create two tables `transactions` and `product_nomEnclature`, and write some SQL statements to get expected results. 
 
 For more details: [SQL part](https://github.com/linzhou-zhong/servier_test/tree/master/SQL)
 
