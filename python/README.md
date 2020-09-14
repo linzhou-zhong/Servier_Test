@@ -16,7 +16,7 @@ For testing question 4, please using code from `flask_part`.
 
 As terminal part, we have to check if user didn't forget adding queries in `commandline`, throw Exception if necessary. 
 
-And thanks to flask, we don't need to verify for queries anymore from `commandline`. That's the reason why there're two folders for python test.
+And thanks for flask, we don't need to verify for queries anymore from `commandline`. That's the reason why there're two folders for python test.
 
 ## Context
 There is a collection of input strings and a collection of query strings. For each query string, determine how many times it occurs in the list of input strings. Return an array of the results.
