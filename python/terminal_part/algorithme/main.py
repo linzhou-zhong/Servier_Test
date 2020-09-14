@@ -6,8 +6,8 @@ from SparseArrays import *
 def main():
     try:
         # Uncomment this part if you test without Docker
-        if os.environ.get("STRINGS_INPUT") is None:
-            os.environ["STRINGS_INPUT"] = "ab,abc,ab"
+#         if os.environ.get("STRINGS_INPUT") is None:
+#             os.environ["STRINGS_INPUT"] = "ab,abc,ab"
 
         # If Environment Variable 'STRINGS_INPUT' doesn't exist
         if os.environ.get("STRINGS_INPUT") is None:
