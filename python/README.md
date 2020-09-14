@@ -58,6 +58,10 @@ You should get:
 
 ![colors](images/terminal_simple_result.png)
 
+If missed queries as input:
+
+![colors](images/terminal_mistake_result.png)
+
 ### Docker
 See [**terminal_part**](https://github.com/linzhou-zhong/servier_test/tree/master/python/terminal_part) for more details.
 ```commandline
@@ -68,10 +72,6 @@ docker run -t test_mdm ab,abc,bc
 You should get:
 
 ![colors](images/docker_simple_result.png)
-
-If missed queries as input:
-
-![colors](images/terminal_mistake_result.png)
 
 
 ### Docker with Expose Port (Flask & Swagger)
