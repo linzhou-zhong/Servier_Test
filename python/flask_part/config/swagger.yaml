@@ -1,0 +1,18 @@
+tags:
+  - SparceArrays
+parameters:
+ - in: path
+   name: queries
+   type: string
+   required: true
+
+responses:
+ 200:
+   description: The frequency of all queries.
+   schema:
+     type: string
+     example: {"ab":2,"abc":1,"bc":0}
+
+
+
+
