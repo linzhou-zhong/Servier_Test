@@ -1,4 +1,4 @@
-### Servier Test Report
+## Servier Test Report
 This repository contains `python` and `SQL` which correspond to the two parts of the technical test documents.
 Each part has its own separate REAME with related explanations and screenshot of standard output. 
 
