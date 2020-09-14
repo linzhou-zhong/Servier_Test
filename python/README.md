@@ -27,13 +27,13 @@ There are `2` instances of `ab`, `1` of `abc` and `0` of `bc`. For each query, a
 ## Usage
 
 ### Python 2.x
-See [**terminal_part**](https://github.com/linzhou-zhong/ServierTest/tree/master/python/terminal_part) for more details
+See [**terminal_part**](https://github.com/linzhou-zhong/servier_test/tree/master/python/terminal_part) for more details
 ```commandline
 python -m main abc,ab,ac
 ```
 
 ### Python 3.x
-See [**terminal_part**](https://github.com/linzhou-zhong/ServierTest/tree/master/python/terminal_part) for more details
+See [**terminal_part**](https://github.com/linzhou-zhong/servier_test/tree/master/python/terminal_part) for more details
 ```commandline
 python3 -m main abc,ab,ac
 ```
@@ -44,7 +44,7 @@ You should get:
 ![colors](images/terminal_simple_result.png)
 
 ### Docker
-See [**terminal_part**](https://github.com/linzhou-zhong/ServierTest/tree/master/python/terminal_part) for more details.
+See [**terminal_part**](https://github.com/linzhou-zhong/servier_test/tree/master/python/terminal_part) for more details.
 ```commandline
 docker build . -t test_mdm
 docker run -t test_mdm ab,abc,bc
@@ -60,7 +60,7 @@ If missed queries as input:
 
 
 ### Docker with Expose Port (Flask & Swagger)
-See [**flask_part**](https://github.com/linzhou-zhong/ServierTest/tree/master/python/flask_part) for more details
+See [**flask_part**](https://github.com/linzhou-zhong/servier_test/tree/master/python/flask_part) for more details
 ```commandline
 docker build . -t test_mdm
 docker run -p 8080:5000 test_mdm
