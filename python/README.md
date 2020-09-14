@@ -96,7 +96,7 @@ Time Complexity of methods
 | Name of method | Time Complexity |
 | :------------: | :-------------: |
 | count_frequency_brute_force | O (n^2) |
-| count_frequency_inner_fuc | O (n^2) |
+| count_frequency_inner_func | O (n^2) |
 | count_frequency_optimization | O (n) |
 
 ## Dockerfile
