@@ -8,12 +8,12 @@ This project is based on [Hackerrank's SparseArrays](https://www.hackerrank.com/
 
 Simple algorithm question, I totally provided 3 different solutions with unequal Time Complexity from O(n) to O(n^2). 
 
-For more details: [python part](https://github.com/linzhou-zhong/ServierTest/tree/master/python)
+For more details: [python part](https://github.com/linzhou-zhong/servier_test/tree/master/python)
 ## SQL part
 
 This project is aimed to create two tables `transactions` and `product_nomEnclature`, and write some SQL statements to get observed results. 
 
-For more details: [SQL part](https://github.com/linzhou-zhong/ServierTest/tree/master/SQL)
+For more details: [SQL part](https://github.com/linzhou-zhong/servier_test/tree/master/SQL)
 
 ## Useful Information
 
