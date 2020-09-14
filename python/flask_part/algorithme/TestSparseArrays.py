@@ -3,7 +3,7 @@ from SparseArrays import *
 
 _strings = ['abc', 'ab', 'ac']  # Strings
 _queries = ['abc', 'ab']  # Queries
-_result = {'ab': 1, 'abc': 1}  # Observed Result
+_result = {'ab': 1, 'abc': 1}  # Expected Result
 _sa = SparseArrays(strings=_strings, queries=_queries)  # Test class
 
 
