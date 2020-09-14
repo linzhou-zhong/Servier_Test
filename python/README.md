@@ -34,6 +34,8 @@ There are `2` instances of `ab`, `1` of `abc` and `0` of `bc`. For each query, a
 
 ## Usage
 
+⚠️ **In order to test code without Docker, please uncommand line 9 and 10 from `main.py` file.**
+
 ### Python 2.x
 See [**terminal_part**](https://github.com/linzhou-zhong/servier_test/tree/master/python/terminal_part) for more details
 ```commandline
