@@ -40,7 +40,7 @@ class SparseArrays:
         res = dict({x: 0 for x in self.queries})
 
         for eachString in self.strings:
-            if eachString in res.keys():  # If current string is found in queries
+            if res.get(eachString) is not None:  # If current string is found in queries
                 res[eachString] += 1
 
         return res
